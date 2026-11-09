@@ -1,0 +1,5508 @@
+{
+  "version": 1,
+  "lines": [
+    {
+      "start": 14.768,
+      "end": 17.868,
+      "jp": "お金とか ビジネスとか 効率とか",
+      "romaji": "okanetoka bijinesutoka kouritsutoka",
+      "phrases": [
+        {
+          "jp": "お金とか",
+          "romaji": "okanetoka",
+          "ruby": [
+            [
+              "お",
+              "o"
+            ],
+            [
+              "金",
+              "kane"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        },
+        {
+          "jp": "ビジネスとか",
+          "romaji": "bijinesutoka",
+          "ruby": [
+            [
+              "ビ",
+              "bi"
+            ],
+            [
+              "ジ",
+              "ji"
+            ],
+            [
+              "ネ",
+              "ne"
+            ],
+            [
+              "ス",
+              "su"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        },
+        {
+          "jp": "効率とか",
+          "romaji": "kouritsutoka",
+          "ruby": [
+            [
+              "効",
+              "kou"
+            ],
+            [
+              "率",
+              "ritsu"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 17.868,
+      "end": 21.293,
+      "jp": "そういうことを これから 考えなくちゃ いけないんだ",
+      "romaji": "souiukotoo korekara kangaenakucha ikenainda",
+      "phrases": [
+        {
+          "jp": "そういうことを",
+          "romaji": "souiukotoo",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "を",
+              "o"
+            ]
+          ]
+        },
+        {
+          "jp": "これから",
+          "romaji": "korekara",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "か",
+              "ka"
+            ],
+            [
+              "ら",
+              "ra"
+            ]
+          ]
+        },
+        {
+          "jp": "考えなくちゃ",
+          "romaji": "kangaenakucha",
+          "ruby": [
+            [
+              "考",
+              "kanga"
+            ],
+            [
+              "え",
+              "e"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "く",
+              "ku"
+            ],
+            [
+              "ちゃ",
+              "cha"
+            ]
+          ]
+        },
+        {
+          "jp": "いけないんだ",
+          "romaji": "ikenainda",
+          "ruby": [
+            [
+              "い",
+              "i"
+            ],
+            [
+              "け",
+              "ke"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "だ",
+              "da"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 21.293,
+      "end": 21.989,
+      "jp": "そうでしょう？",
+      "romaji": "soudeshou",
+      "phrases": [
+        {
+          "jp": "そうでしょう？",
+          "romaji": "soudeshou",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "で",
+              "de"
+            ],
+            [
+              "しょ",
+              "sho"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "？",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 21.989,
+      "end": 25.356,
+      "jp": "だって学校なんかじゃ 責任感とか 団体行動だとか",
+      "romaji": "dattegakkounankaja sekininkantoka dantaikoudoudatoka",
+      "phrases": [
+        {
+          "jp": "だって学校なんかじゃ",
+          "romaji": "dattegakkounankaja",
+          "ruby": [
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "学",
+              "gak"
+            ],
+            [
+              "校",
+              "kou"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "か",
+              "ka"
+            ],
+            [
+              "じゃ",
+              "ja"
+            ]
+          ]
+        },
+        {
+          "jp": "責任感とか",
+          "romaji": "sekininkantoka",
+          "ruby": [
+            [
+              "責",
+              "seki"
+            ],
+            [
+              "任",
+              "nin"
+            ],
+            [
+              "感",
+              "kan"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        },
+        {
+          "jp": "団体行動だとか",
+          "romaji": "dantaikoudoudatoka",
+          "ruby": [
+            [
+              "団",
+              "dan"
+            ],
+            [
+              "体",
+              "tai"
+            ],
+            [
+              "行",
+              "kou"
+            ],
+            [
+              "動",
+              "dou"
+            ],
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 25.356,
+      "end": 29.06,
+      "jp": "ありもしない 意味もない 将来のためとか 言って教えてくるじゃん？",
+      "romaji": "arimoshinai imimonai shourainotametoka itteoshietekurujan",
+      "phrases": [
+        {
+          "jp": "ありもしない",
+          "romaji": "arimoshinai",
+          "ruby": [
+            [
+              "あ",
+              "a"
+            ],
+            [
+              "り",
+              "ri"
+            ],
+            [
+              "も",
+              "mo"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        },
+        {
+          "jp": "意味もない",
+          "romaji": "imimonai",
+          "ruby": [
+            [
+              "意",
+              "i"
+            ],
+            [
+              "味",
+              "mi"
+            ],
+            [
+              "も",
+              "mo"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        },
+        {
+          "jp": "将来のためとか",
+          "romaji": "shourainotametoka",
+          "ruby": [
+            [
+              "将",
+              "shou"
+            ],
+            [
+              "来",
+              "rai"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "め",
+              "me"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        },
+        {
+          "jp": "言って教えてくるじゃん？",
+          "romaji": "itteoshietekurujan",
+          "ruby": [
+            [
+              "言",
+              "i"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "教",
+              "oshi"
+            ],
+            [
+              "え",
+              "e"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "く",
+              "ku"
+            ],
+            [
+              "る",
+              "ru"
+            ],
+            [
+              "じゃ",
+              "ja"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "？",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 29.06,
+      "end": 30.987,
+      "jp": "「あるべき 人間の姿へ」",
+      "romaji": "arubeki ningennosugatae",
+      "phrases": [
+        {
+          "jp": "「あるべき",
+          "romaji": "arubeki",
+          "ruby": [
+            [
+              "「",
+              ""
+            ],
+            [
+              "あ",
+              "a"
+            ],
+            [
+              "る",
+              "ru"
+            ],
+            [
+              "べ",
+              "be"
+            ],
+            [
+              "き",
+              "ki"
+            ]
+          ]
+        },
+        {
+          "jp": "人間の姿へ」",
+          "romaji": "ningennosugatae",
+          "ruby": [
+            [
+              "人",
+              "nin"
+            ],
+            [
+              "間",
+              "gen"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "姿",
+              "sugata"
+            ],
+            [
+              "へ",
+              "e"
+            ],
+            [
+              "」",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 30.987,
+      "end": 32.763,
+      "jp": "「正しい 人間の姿へ」",
+      "romaji": "tadashii ningennosugatae",
+      "phrases": [
+        {
+          "jp": "「正しい",
+          "romaji": "tadashii",
+          "ruby": [
+            [
+              "「",
+              ""
+            ],
+            [
+              "正",
+              "tada"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        },
+        {
+          "jp": "人間の姿へ」",
+          "romaji": "ningennosugatae",
+          "ruby": [
+            [
+              "人",
+              "nin"
+            ],
+            [
+              "間",
+              "gen"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "姿",
+              "sugata"
+            ],
+            [
+              "へ",
+              "e"
+            ],
+            [
+              "」",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 32.763,
+      "end": 36.095,
+      "jp": "そう思えば なんだか 人間全てが 汚く思えてくるな",
+      "romaji": "souomoeba nandaka ningensubetega kitanakuomoetekuruna",
+      "phrases": [
+        {
+          "jp": "そう思えば",
+          "romaji": "souomoeba",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "思",
+              "omo"
+            ],
+            [
+              "え",
+              "e"
+            ],
+            [
+              "ば",
+              "ba"
+            ]
+          ]
+        },
+        {
+          "jp": "なんだか",
+          "romaji": "nandaka",
+          "ruby": [
+            [
+              "な",
+              "na"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        },
+        {
+          "jp": "人間全てが",
+          "romaji": "ningensubetega",
+          "ruby": [
+            [
+              "人",
+              "nin"
+            ],
+            [
+              "間",
+              "gen"
+            ],
+            [
+              "全",
+              "sube"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "が",
+              "ga"
+            ]
+          ]
+        },
+        {
+          "jp": "汚く思えてくるな",
+          "romaji": "kitanakuomoetekuruna",
+          "ruby": [
+            [
+              "汚",
+              "kitana"
+            ],
+            [
+              "く",
+              "ku"
+            ],
+            [
+              "思",
+              "omo"
+            ],
+            [
+              "え",
+              "e"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "く",
+              "ku"
+            ],
+            [
+              "る",
+              "ru"
+            ],
+            [
+              "な",
+              "na"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 36.095,
+      "end": 39.892,
+      "jp": "仮想世界とか 妄想だとか そういうものこそ 美しくなる",
+      "romaji": "kasousekaitoka mousoudatoka souiumonokoso utsukushikunaru",
+      "phrases": [
+        {
+          "jp": "仮想世界とか",
+          "romaji": "kasousekaitoka",
+          "ruby": [
+            [
+              "仮",
+              "ka"
+            ],
+            [
+              "想",
+              "sou"
+            ],
+            [
+              "世",
+              "se"
+            ],
+            [
+              "界",
+              "kai"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        },
+        {
+          "jp": "妄想だとか",
+          "romaji": "mousoudatoka",
+          "ruby": [
+            [
+              "妄",
+              "mou"
+            ],
+            [
+              "想",
+              "sou"
+            ],
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        },
+        {
+          "jp": "そういうものこそ",
+          "romaji": "souiumonokoso",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "も",
+              "mo"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "そ",
+              "so"
+            ]
+          ]
+        },
+        {
+          "jp": "美しくなる",
+          "romaji": "utsukushikunaru",
+          "ruby": [
+            [
+              "美",
+              "utsuku"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "く",
+              "ku"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "る",
+              "ru"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 39.892,
+      "end": 43.098,
+      "jp": "ああなんだこの感情は 人間らしくない私だ",
+      "romaji": "aanandakonokanjouwa ningenrashikunaiwatashida",
+      "phrases": [
+        {
+          "jp": "ああなんだこの感情は",
+          "romaji": "aanandakonokanjouwa",
+          "ruby": [
+            [
+              "あ",
+              "a"
+            ],
+            [
+              "あ",
+              "a"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "感",
+              "kan"
+            ],
+            [
+              "情",
+              "jou"
+            ],
+            [
+              "は",
+              "wa"
+            ]
+          ]
+        },
+        {
+          "jp": "人間らしくない私だ",
+          "romaji": "ningenrashikunaiwatashida",
+          "ruby": [
+            [
+              "人",
+              "nin"
+            ],
+            [
+              "間",
+              "gen"
+            ],
+            [
+              "ら",
+              "ra"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "く",
+              "ku"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "私",
+              "watashi"
+            ],
+            [
+              "だ",
+              "da"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 43.723,
+      "end": 49.598,
+      "jp": "「寂しい」とか 「愛しい」とか",
+      "romaji": "sabishiitoka itoshiitoka",
+      "phrases": [
+        {
+          "jp": "「寂しい」とか",
+          "romaji": "sabishiitoka",
+          "ruby": [
+            [
+              "「",
+              ""
+            ],
+            [
+              "寂",
+              "sabi"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "」",
+              ""
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        },
+        {
+          "jp": "「愛しい」とか",
+          "romaji": "itoshiitoka",
+          "ruby": [
+            [
+              "「",
+              ""
+            ],
+            [
+              "愛",
+              "ito"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "」",
+              ""
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 49.598,
+      "end": 56.478,
+      "jp": "そんな言葉では 表せない",
+      "romaji": "sonnakotobadewa arawasenai",
+      "phrases": [
+        {
+          "jp": "そんな言葉では",
+          "romaji": "sonnakotobadewa",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "言",
+              "koto"
+            ],
+            [
+              "葉",
+              "ba"
+            ],
+            [
+              "で",
+              "de"
+            ],
+            [
+              "は",
+              "wa"
+            ]
+          ]
+        },
+        {
+          "jp": "表せない",
+          "romaji": "arawasenai",
+          "ruby": [
+            [
+              "表",
+              "arawa"
+            ],
+            [
+              "せ",
+              "se"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 57.388,
+      "end": 61.057,
+      "jp": "不可解な 未観測情景",
+      "romaji": "fukakaina mikansokujoukei",
+      "phrases": [
+        {
+          "jp": "不可解な",
+          "romaji": "fukakaina",
+          "ruby": [
+            [
+              "不",
+              "fu"
+            ],
+            [
+              "可",
+              "ka"
+            ],
+            [
+              "解",
+              "kai"
+            ],
+            [
+              "な",
+              "na"
+            ]
+          ]
+        },
+        {
+          "jp": "未観測情景",
+          "romaji": "mikansokujoukei",
+          "ruby": [
+            [
+              "未",
+              "mi"
+            ],
+            [
+              "観",
+              "kan"
+            ],
+            [
+              "測",
+              "soku"
+            ],
+            [
+              "情",
+              "jou"
+            ],
+            [
+              "景",
+              "kei"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 61.057,
+      "end": 63.855,
+      "jp": "名前のない 花のような",
+      "romaji": "namaenonai hananoyouna",
+      "phrases": [
+        {
+          "jp": "名前のない",
+          "romaji": "namaenonai",
+          "ruby": [
+            [
+              "名",
+              "na"
+            ],
+            [
+              "前",
+              "mae"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        },
+        {
+          "jp": "花のような",
+          "romaji": "hananoyouna",
+          "ruby": [
+            [
+              "花",
+              "hana"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "よ",
+              "yo"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "な",
+              "na"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 63.855,
+      "end": 66.699,
+      "jp": "悠に咲き乱れる この号哭が",
+      "romaji": "yuunisakimidareru konogoukokuga",
+      "phrases": [
+        {
+          "jp": "悠に咲き乱れる",
+          "romaji": "yuunisakimidareru",
+          "ruby": [
+            [
+              "悠",
+              "yuu"
+            ],
+            [
+              "に",
+              "ni"
+            ],
+            [
+              "咲",
+              "sa"
+            ],
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "乱",
+              "mida"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "る",
+              "ru"
+            ]
+          ]
+        },
+        {
+          "jp": "この号哭が",
+          "romaji": "konogoukokuga",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "号",
+              "gou"
+            ],
+            [
+              "哭",
+              "koku"
+            ],
+            [
+              "が",
+              "ga"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 66.699,
+      "end": 68.638,
+      "jp": "やりたいことすら できなくて",
+      "romaji": "yaritaikotosura dekinakute",
+      "phrases": [
+        {
+          "jp": "やりたいことすら",
+          "romaji": "yaritaikotosura",
+          "ruby": [
+            [
+              "や",
+              "ya"
+            ],
+            [
+              "り",
+              "ri"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "す",
+              "su"
+            ],
+            [
+              "ら",
+              "ra"
+            ]
+          ]
+        },
+        {
+          "jp": "できなくて",
+          "romaji": "dekinakute",
+          "ruby": [
+            [
+              "で",
+              "de"
+            ],
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "く",
+              "ku"
+            ],
+            [
+              "て",
+              "te"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 68.638,
+      "end": 71.808,
+      "jp": "身動きすら取れない さびれた心臓に咲いた",
+      "romaji": "miugokisuratorenai sabiretashinzounisaita",
+      "phrases": [
+        {
+          "jp": "身動きすら取れない",
+          "romaji": "miugokisuratorenai",
+          "ruby": [
+            [
+              "身",
+              "mi"
+            ],
+            [
+              "動",
+              "ugo"
+            ],
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "す",
+              "su"
+            ],
+            [
+              "ら",
+              "ra"
+            ],
+            [
+              "取",
+              "to"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        },
+        {
+          "jp": "さびれた心臓に咲いた",
+          "romaji": "sabiretashinzounisaita",
+          "ruby": [
+            [
+              "さ",
+              "sa"
+            ],
+            [
+              "び",
+              "bi"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "心",
+              "shin"
+            ],
+            [
+              "臓",
+              "zou"
+            ],
+            [
+              "に",
+              "ni"
+            ],
+            [
+              "咲",
+              "sa"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "た",
+              "ta"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 71.808,
+      "end": 75.244,
+      "jp": "不安定な 未完成宣言",
+      "romaji": "fuanteina mikanseisengen",
+      "phrases": [
+        {
+          "jp": "不安定な",
+          "romaji": "fuanteina",
+          "ruby": [
+            [
+              "不",
+              "fu"
+            ],
+            [
+              "安",
+              "an"
+            ],
+            [
+              "定",
+              "tei"
+            ],
+            [
+              "な",
+              "na"
+            ]
+          ]
+        },
+        {
+          "jp": "未完成宣言",
+          "romaji": "mikanseisengen",
+          "ruby": [
+            [
+              "未",
+              "mi"
+            ],
+            [
+              "完",
+              "kan"
+            ],
+            [
+              "成",
+              "sei"
+            ],
+            [
+              "宣",
+              "sen"
+            ],
+            [
+              "言",
+              "gen"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 75.244,
+      "end": 78.112,
+      "jp": "言葉じゃ 表せない",
+      "romaji": "kotobaja arawasenai",
+      "phrases": [
+        {
+          "jp": "言葉じゃ",
+          "romaji": "kotobaja",
+          "ruby": [
+            [
+              "言",
+              "koto"
+            ],
+            [
+              "葉",
+              "ba"
+            ],
+            [
+              "じゃ",
+              "ja"
+            ]
+          ]
+        },
+        {
+          "jp": "表せない",
+          "romaji": "arawasenai",
+          "ruby": [
+            [
+              "表",
+              "arawa"
+            ],
+            [
+              "せ",
+              "se"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 78.112,
+      "end": 82.5,
+      "jp": "現実や 社会に刃向かうための",
+      "romaji": "genjitsuya shakainihamukautameno",
+      "phrases": [
+        {
+          "jp": "現実や",
+          "romaji": "genjitsuya",
+          "ruby": [
+            [
+              "現",
+              "gen"
+            ],
+            [
+              "実",
+              "jitsu"
+            ],
+            [
+              "や",
+              "ya"
+            ]
+          ]
+        },
+        {
+          "jp": "社会に刃向かうための",
+          "romaji": "shakainihamukautameno",
+          "ruby": [
+            [
+              "社",
+              "sha"
+            ],
+            [
+              "会",
+              "kai"
+            ],
+            [
+              "に",
+              "ni"
+            ],
+            [
+              "刃",
+              "ha"
+            ],
+            [
+              "向",
+              "mu"
+            ],
+            [
+              "か",
+              "ka"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "め",
+              "me"
+            ],
+            [
+              "の",
+              "no"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 82.5,
+      "end": 86.438,
+      "jp": "未覚醒の 不完全な魔法",
+      "romaji": "mikakuseino fukanzennamahou",
+      "phrases": [
+        {
+          "jp": "未覚醒の",
+          "romaji": "mikakuseino",
+          "ruby": [
+            [
+              "未",
+              "mi"
+            ],
+            [
+              "覚",
+              "kaku"
+            ],
+            [
+              "醒",
+              "sei"
+            ],
+            [
+              "の",
+              "no"
+            ]
+          ]
+        },
+        {
+          "jp": "不完全な魔法",
+          "romaji": "fukanzennamahou",
+          "ruby": [
+            [
+              "不",
+              "fu"
+            ],
+            [
+              "完",
+              "kan"
+            ],
+            [
+              "全",
+              "zen"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "魔",
+              "ma"
+            ],
+            [
+              "法",
+              "hou"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 100.682,
+      "end": 104.292,
+      "jp": "「人間の正しさってやつを 今勉強しているわけですか",
+      "romaji": "ningennotadashisatteyatsuo imabenkyoushiteiruwakedesuka",
+      "phrases": [
+        {
+          "jp": "「人間の正しさってやつを",
+          "romaji": "ningennotadashisatteyatsuo",
+          "ruby": [
+            [
+              "「",
+              ""
+            ],
+            [
+              "人",
+              "nin"
+            ],
+            [
+              "間",
+              "gen"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "正",
+              "tada"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "さ",
+              "sa"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "や",
+              "ya"
+            ],
+            [
+              "つ",
+              "tsu"
+            ],
+            [
+              "を",
+              "o"
+            ]
+          ]
+        },
+        {
+          "jp": "今勉強しているわけですか",
+          "romaji": "imabenkyoushiteiruwakedesuka",
+          "ruby": [
+            [
+              "今",
+              "ima"
+            ],
+            [
+              "勉",
+              "ben"
+            ],
+            [
+              "強",
+              "kyou"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "る",
+              "ru"
+            ],
+            [
+              "わ",
+              "wa"
+            ],
+            [
+              "け",
+              "ke"
+            ],
+            [
+              "で",
+              "de"
+            ],
+            [
+              "す",
+              "su"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 104.292,
+      "end": 105.941,
+      "jp": "セオリー通りに 生きて",
+      "romaji": "seoriidoorini ikite",
+      "phrases": [
+        {
+          "jp": "セオリー通りに",
+          "romaji": "seoriidoorini",
+          "ruby": [
+            [
+              "セ",
+              "se"
+            ],
+            [
+              "オ",
+              "o"
+            ],
+            [
+              "リ",
+              "ri"
+            ],
+            [
+              "ー",
+              "i"
+            ],
+            [
+              "通",
+              "doo"
+            ],
+            [
+              "り",
+              "ri"
+            ],
+            [
+              "に",
+              "ni"
+            ]
+          ]
+        },
+        {
+          "jp": "生きて",
+          "romaji": "ikite",
+          "ruby": [
+            [
+              "生",
+              "i"
+            ],
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "て",
+              "te"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 105.941,
+      "end": 109.273,
+      "jp": "教えられた通りにやることが そりゃ正しいと思うよ",
+      "romaji": "oshieraretadooriniyarukotoga soryatadashiitoomouyo",
+      "phrases": [
+        {
+          "jp": "教えられた通りにやることが",
+          "romaji": "oshieraretadooriniyarukotoga",
+          "ruby": [
+            [
+              "教",
+              "oshi"
+            ],
+            [
+              "え",
+              "e"
+            ],
+            [
+              "ら",
+              "ra"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "通",
+              "doo"
+            ],
+            [
+              "り",
+              "ri"
+            ],
+            [
+              "に",
+              "ni"
+            ],
+            [
+              "や",
+              "ya"
+            ],
+            [
+              "る",
+              "ru"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "が",
+              "ga"
+            ]
+          ]
+        },
+        {
+          "jp": "そりゃ正しいと思うよ",
+          "romaji": "soryatadashiitoomouyo",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "りゃ",
+              "rya"
+            ],
+            [
+              "正",
+              "tada"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "思",
+              "omo"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "よ",
+              "yo"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 109.273,
+      "end": 111.63,
+      "jp": "でもさ きっとそれだけじゃないでしょう？」",
+      "romaji": "demosa kittosoredakejanaideshou",
+      "phrases": [
+        {
+          "jp": "でもさ",
+          "romaji": "demosa",
+          "ruby": [
+            [
+              "で",
+              "de"
+            ],
+            [
+              "も",
+              "mo"
+            ],
+            [
+              "さ",
+              "sa"
+            ]
+          ]
+        },
+        {
+          "jp": "きっとそれだけじゃないでしょう？」",
+          "romaji": "kittosoredakejanaideshou",
+          "ruby": [
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "け",
+              "ke"
+            ],
+            [
+              "じゃ",
+              "ja"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "で",
+              "de"
+            ],
+            [
+              "しょ",
+              "sho"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "？",
+              ""
+            ],
+            [
+              "」",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 111.63,
+      "end": 115.113,
+      "jp": "何かを間違いだって思うから 誰かに間違いだって言われた",
+      "romaji": "nanikaomachigaidatteomoukara darekanimachigaidatteiwareta",
+      "phrases": [
+        {
+          "jp": "何かを間違いだって思うから",
+          "romaji": "nanikaomachigaidatteomoukara",
+          "ruby": [
+            [
+              "何",
+              "nani"
+            ],
+            [
+              "か",
+              "ka"
+            ],
+            [
+              "を",
+              "o"
+            ],
+            [
+              "間",
+              "ma"
+            ],
+            [
+              "違",
+              "chiga"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "思",
+              "omo"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "か",
+              "ka"
+            ],
+            [
+              "ら",
+              "ra"
+            ]
+          ]
+        },
+        {
+          "jp": "誰かに間違いだって言われた",
+          "romaji": "darekanimachigaidatteiwareta",
+          "ruby": [
+            [
+              "誰",
+              "dare"
+            ],
+            [
+              "か",
+              "ka"
+            ],
+            [
+              "に",
+              "ni"
+            ],
+            [
+              "間",
+              "ma"
+            ],
+            [
+              "違",
+              "chiga"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "言",
+              "i"
+            ],
+            [
+              "わ",
+              "wa"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "た",
+              "ta"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 115.113,
+      "end": 116.971,
+      "jp": "それじゃあ この気持ちはなんだ？",
+      "romaji": "sorejaa konokimochiwananda",
+      "phrases": [
+        {
+          "jp": "それじゃあ",
+          "romaji": "sorejaa",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "じゃ",
+              "ja"
+            ],
+            [
+              "あ",
+              "a"
+            ]
+          ]
+        },
+        {
+          "jp": "この気持ちはなんだ？",
+          "romaji": "konokimochiwananda",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "気",
+              "ki"
+            ],
+            [
+              "持",
+              "mo"
+            ],
+            [
+              "ち",
+              "chi"
+            ],
+            [
+              "は",
+              "wa"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "？",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 116.971,
+      "end": 118.712,
+      "jp": "愛情とは またほど遠い",
+      "romaji": "aijoutowa matahodotooi",
+      "phrases": [
+        {
+          "jp": "愛情とは",
+          "romaji": "aijoutowa",
+          "ruby": [
+            [
+              "愛",
+              "ai"
+            ],
+            [
+              "情",
+              "jou"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "は",
+              "wa"
+            ]
+          ]
+        },
+        {
+          "jp": "またほど遠い",
+          "romaji": "matahodotooi",
+          "ruby": [
+            [
+              "ま",
+              "ma"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "ほ",
+              "ho"
+            ],
+            [
+              "ど",
+              "do"
+            ],
+            [
+              "遠",
+              "too"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 118.712,
+      "end": 122.288,
+      "jp": "激動とも言い難い どうにも表せない 歪な感情",
+      "romaji": "gekidoutomoiigatai dounimoarawasenai ibitsunakanjou",
+      "phrases": [
+        {
+          "jp": "激動とも言い難い",
+          "romaji": "gekidoutomoiigatai",
+          "ruby": [
+            [
+              "激",
+              "geki"
+            ],
+            [
+              "動",
+              "dou"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "も",
+              "mo"
+            ],
+            [
+              "言",
+              "i"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "難",
+              "gata"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        },
+        {
+          "jp": "どうにも表せない",
+          "romaji": "dounimoarawasenai",
+          "ruby": [
+            [
+              "ど",
+              "do"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "に",
+              "ni"
+            ],
+            [
+              "も",
+              "mo"
+            ],
+            [
+              "表",
+              "arawa"
+            ],
+            [
+              "せ",
+              "se"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        },
+        {
+          "jp": "歪な感情",
+          "romaji": "ibitsunakanjou",
+          "ruby": [
+            [
+              "歪",
+              "ibitsu"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "感",
+              "kan"
+            ],
+            [
+              "情",
+              "jou"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 122.288,
+      "end": 124.076,
+      "jp": "これこそ 美しいのではないか？",
+      "romaji": "korekoso utsukushiinodewanaika",
+      "phrases": [
+        {
+          "jp": "これこそ",
+          "romaji": "korekoso",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "そ",
+              "so"
+            ]
+          ]
+        },
+        {
+          "jp": "美しいのではないか？",
+          "romaji": "utsukushiinodewanaika",
+          "ruby": [
+            [
+              "美",
+              "utsuku"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "で",
+              "de"
+            ],
+            [
+              "は",
+              "wa"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "か",
+              "ka"
+            ],
+            [
+              "？",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 124.076,
+      "end": 125.875,
+      "jp": "この美しさは 間違いか？",
+      "romaji": "konoutsukushisawa machigaika",
+      "phrases": [
+        {
+          "jp": "この美しさは",
+          "romaji": "konoutsukushisawa",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "美",
+              "utsuku"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "さ",
+              "sa"
+            ],
+            [
+              "は",
+              "wa"
+            ]
+          ]
+        },
+        {
+          "jp": "間違いか？",
+          "romaji": "machigaika",
+          "ruby": [
+            [
+              "間",
+              "ma"
+            ],
+            [
+              "違",
+              "chiga"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "か",
+              "ka"
+            ],
+            [
+              "？",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 125.875,
+      "end": 127.129,
+      "jp": "ならこんな世界 いらない",
+      "romaji": "narakonnasekai iranai",
+      "phrases": [
+        {
+          "jp": "ならこんな世界",
+          "romaji": "narakonnasekai",
+          "ruby": [
+            [
+              "な",
+              "na"
+            ],
+            [
+              "ら",
+              "ra"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "世",
+              "se"
+            ],
+            [
+              "界",
+              "kai"
+            ]
+          ]
+        },
+        {
+          "jp": "いらない",
+          "romaji": "iranai",
+          "ruby": [
+            [
+              "い",
+              "i"
+            ],
+            [
+              "ら",
+              "ra"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 127.129,
+      "end": 129.173,
+      "jp": "私の信じるものを 信じたい",
+      "romaji": "watashinoshinjirumonoo shinjitai",
+      "phrases": [
+        {
+          "jp": "私の信じるものを",
+          "romaji": "watashinoshinjirumonoo",
+          "ruby": [
+            [
+              "私",
+              "watashi"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "信",
+              "shin"
+            ],
+            [
+              "じ",
+              "ji"
+            ],
+            [
+              "る",
+              "ru"
+            ],
+            [
+              "も",
+              "mo"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "を",
+              "o"
+            ]
+          ]
+        },
+        {
+          "jp": "信じたい",
+          "romaji": "shinjitai",
+          "ruby": [
+            [
+              "信",
+              "shin"
+            ],
+            [
+              "じ",
+              "ji"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 129.173,
+      "end": 135.628,
+      "jp": "「死にたい」とか 「生きたい」とか",
+      "romaji": "shinitaitoka ikitaitoka",
+      "phrases": [
+        {
+          "jp": "「死にたい」とか",
+          "romaji": "shinitaitoka",
+          "ruby": [
+            [
+              "「",
+              ""
+            ],
+            [
+              "死",
+              "shi"
+            ],
+            [
+              "に",
+              "ni"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "」",
+              ""
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        },
+        {
+          "jp": "「生きたい」とか",
+          "romaji": "ikitaitoka",
+          "ruby": [
+            [
+              "「",
+              ""
+            ],
+            [
+              "生",
+              "i"
+            ],
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "」",
+              ""
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 135.628,
+      "end": 142.228,
+      "jp": "そんな痛みでは 嫌われる",
+      "romaji": "sonnaitamidewa kirawareru",
+      "phrases": [
+        {
+          "jp": "そんな痛みでは",
+          "romaji": "sonnaitamidewa",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "痛",
+              "ita"
+            ],
+            [
+              "み",
+              "mi"
+            ],
+            [
+              "で",
+              "de"
+            ],
+            [
+              "は",
+              "wa"
+            ]
+          ]
+        },
+        {
+          "jp": "嫌われる",
+          "romaji": "kirawareru",
+          "ruby": [
+            [
+              "嫌",
+              "kira"
+            ],
+            [
+              "わ",
+              "wa"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "る",
+              "ru"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 142.745,
+      "end": 147.029,
+      "jp": "でも 不可解な 未完の声明",
+      "romaji": "demo fukakaina mikannoseimei",
+      "phrases": [
+        {
+          "jp": "でも",
+          "romaji": "demo",
+          "ruby": [
+            [
+              "で",
+              "de"
+            ],
+            [
+              "も",
+              "mo"
+            ]
+          ]
+        },
+        {
+          "jp": "不可解な",
+          "romaji": "fukakaina",
+          "ruby": [
+            [
+              "不",
+              "fu"
+            ],
+            [
+              "可",
+              "ka"
+            ],
+            [
+              "解",
+              "kai"
+            ],
+            [
+              "な",
+              "na"
+            ]
+          ]
+        },
+        {
+          "jp": "未完の声明",
+          "romaji": "mikannoseimei",
+          "ruby": [
+            [
+              "未",
+              "mi"
+            ],
+            [
+              "完",
+              "kan"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "声",
+              "sei"
+            ],
+            [
+              "明",
+              "mei"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 147.029,
+      "end": 149.838,
+      "jp": "それだけが 頼りだろう",
+      "romaji": "soredakega tayoridarou",
+      "phrases": [
+        {
+          "jp": "それだけが",
+          "romaji": "soredakega",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "け",
+              "ke"
+            ],
+            [
+              "が",
+              "ga"
+            ]
+          ]
+        },
+        {
+          "jp": "頼りだろう",
+          "romaji": "tayoridarou",
+          "ruby": [
+            [
+              "頼",
+              "tayo"
+            ],
+            [
+              "り",
+              "ri"
+            ],
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "ろ",
+              "ro"
+            ],
+            [
+              "う",
+              "u"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 149.838,
+      "end": 152.822,
+      "jp": "ずっと 未知なる現実に 無力で",
+      "romaji": "zutto michinarugenjitsuni muryokude",
+      "phrases": [
+        {
+          "jp": "ずっと",
+          "romaji": "zutto",
+          "ruby": [
+            [
+              "ず",
+              "zu"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "と",
+              "to"
+            ]
+          ]
+        },
+        {
+          "jp": "未知なる現実に",
+          "romaji": "michinarugenjitsuni",
+          "ruby": [
+            [
+              "未",
+              "mi"
+            ],
+            [
+              "知",
+              "chi"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "る",
+              "ru"
+            ],
+            [
+              "現",
+              "gen"
+            ],
+            [
+              "実",
+              "jitsu"
+            ],
+            [
+              "に",
+              "ni"
+            ]
+          ]
+        },
+        {
+          "jp": "無力で",
+          "romaji": "muryokude",
+          "ruby": [
+            [
+              "無",
+              "mu"
+            ],
+            [
+              "力",
+              "ryoku"
+            ],
+            [
+              "で",
+              "de"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 152.822,
+      "end": 154.587,
+      "jp": "生きることも 難しくって",
+      "romaji": "ikirukotomo muzukashikutte",
+      "phrases": [
+        {
+          "jp": "生きることも",
+          "romaji": "ikirukotomo",
+          "ruby": [
+            [
+              "生",
+              "i"
+            ],
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "る",
+              "ru"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "も",
+              "mo"
+            ]
+          ]
+        },
+        {
+          "jp": "難しくって",
+          "romaji": "muzukashikutte",
+          "ruby": [
+            [
+              "難",
+              "muzuka"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "く",
+              "ku"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "て",
+              "te"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 154.587,
+      "end": 157.896,
+      "jp": "身動きすら取れない 寂れた肺が鳴った",
+      "romaji": "miugokisuratorenai sabiretahaiganatta",
+      "phrases": [
+        {
+          "jp": "身動きすら取れない",
+          "romaji": "miugokisuratorenai",
+          "ruby": [
+            [
+              "身",
+              "mi"
+            ],
+            [
+              "動",
+              "ugo"
+            ],
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "す",
+              "su"
+            ],
+            [
+              "ら",
+              "ra"
+            ],
+            [
+              "取",
+              "to"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        },
+        {
+          "jp": "寂れた肺が鳴った",
+          "romaji": "sabiretahaiganatta",
+          "ruby": [
+            [
+              "寂",
+              "sabi"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "肺",
+              "hai"
+            ],
+            [
+              "が",
+              "ga"
+            ],
+            [
+              "鳴",
+              "na"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "た",
+              "ta"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 157.896,
+      "end": 161.367,
+      "jp": "不可測な 異端の証明",
+      "romaji": "fukasokuna itannoshoumei",
+      "phrases": [
+        {
+          "jp": "不可測な",
+          "romaji": "fukasokuna",
+          "ruby": [
+            [
+              "不",
+              "fu"
+            ],
+            [
+              "可",
+              "ka"
+            ],
+            [
+              "測",
+              "soku"
+            ],
+            [
+              "な",
+              "na"
+            ]
+          ]
+        },
+        {
+          "jp": "異端の証明",
+          "romaji": "itannoshoumei",
+          "ruby": [
+            [
+              "異",
+              "i"
+            ],
+            [
+              "端",
+              "tan"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "証",
+              "shou"
+            ],
+            [
+              "明",
+              "mei"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 161.367,
+      "end": 164.084,
+      "jp": "画面に 花が咲いて",
+      "romaji": "gamenni hanagasaite",
+      "phrases": [
+        {
+          "jp": "画面に",
+          "romaji": "gamenni",
+          "ruby": [
+            [
+              "画",
+              "ga"
+            ],
+            [
+              "面",
+              "men"
+            ],
+            [
+              "に",
+              "ni"
+            ]
+          ]
+        },
+        {
+          "jp": "花が咲いて",
+          "romaji": "hanagasaite",
+          "ruby": [
+            [
+              "花",
+              "hana"
+            ],
+            [
+              "が",
+              "ga"
+            ],
+            [
+              "咲",
+              "sa"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "て",
+              "te"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 164.084,
+      "end": 168.368,
+      "jp": "現実に 社会に反抗する",
+      "romaji": "genjitsuni shakainihankousuru",
+      "phrases": [
+        {
+          "jp": "現実に",
+          "romaji": "genjitsuni",
+          "ruby": [
+            [
+              "現",
+              "gen"
+            ],
+            [
+              "実",
+              "jitsu"
+            ],
+            [
+              "に",
+              "ni"
+            ]
+          ]
+        },
+        {
+          "jp": "社会に反抗する",
+          "romaji": "shakainihankousuru",
+          "ruby": [
+            [
+              "社",
+              "sha"
+            ],
+            [
+              "会",
+              "kai"
+            ],
+            [
+              "に",
+              "ni"
+            ],
+            [
+              "反",
+              "han"
+            ],
+            [
+              "抗",
+              "kou"
+            ],
+            [
+              "す",
+              "su"
+            ],
+            [
+              "る",
+              "ru"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 168.368,
+      "end": 172.228,
+      "jp": "不完全な 不安定な魔法",
+      "romaji": "fukanzenna fuanteinamahou",
+      "phrases": [
+        {
+          "jp": "不完全な",
+          "romaji": "fukanzenna",
+          "ruby": [
+            [
+              "不",
+              "fu"
+            ],
+            [
+              "完",
+              "kan"
+            ],
+            [
+              "全",
+              "zen"
+            ],
+            [
+              "な",
+              "na"
+            ]
+          ]
+        },
+        {
+          "jp": "不安定な魔法",
+          "romaji": "fuanteinamahou",
+          "ruby": [
+            [
+              "不",
+              "fu"
+            ],
+            [
+              "安",
+              "an"
+            ],
+            [
+              "定",
+              "tei"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "魔",
+              "ma"
+            ],
+            [
+              "法",
+              "hou"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 187.014,
+      "end": 188.163,
+      "jp": "このまま 清く正しく",
+      "romaji": "konomama kiyokutadashiku",
+      "phrases": [
+        {
+          "jp": "このまま",
+          "romaji": "konomama",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "ま",
+              "ma"
+            ],
+            [
+              "ま",
+              "ma"
+            ]
+          ]
+        },
+        {
+          "jp": "清く正しく",
+          "romaji": "kiyokutadashiku",
+          "ruby": [
+            [
+              "清",
+              "kiyo"
+            ],
+            [
+              "く",
+              "ku"
+            ],
+            [
+              "正",
+              "tada"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "く",
+              "ku"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 188.163,
+      "end": 189.788,
+      "jp": "誠実な大人に なることが",
+      "romaji": "seijitsunaotonani narukotoga",
+      "phrases": [
+        {
+          "jp": "誠実な大人に",
+          "romaji": "seijitsunaotonani",
+          "ruby": [
+            [
+              "誠",
+              "sei"
+            ],
+            [
+              "実",
+              "jitsu"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "大",
+              "o"
+            ],
+            [
+              "人",
+              "tona"
+            ],
+            [
+              "に",
+              "ni"
+            ]
+          ]
+        },
+        {
+          "jp": "なることが",
+          "romaji": "narukotoga",
+          "ruby": [
+            [
+              "な",
+              "na"
+            ],
+            [
+              "る",
+              "ru"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "が",
+              "ga"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 189.788,
+      "end": 191.495,
+      "jp": "それだって 正解の一つだ",
+      "romaji": "soredatte seikainohitotsuda",
+      "phrases": [
+        {
+          "jp": "それだって",
+          "romaji": "soredatte",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "て",
+              "te"
+            ]
+          ]
+        },
+        {
+          "jp": "正解の一つだ",
+          "romaji": "seikainohitotsuda",
+          "ruby": [
+            [
+              "正",
+              "sei"
+            ],
+            [
+              "解",
+              "kai"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "一",
+              "hito"
+            ],
+            [
+              "つ",
+              "tsu"
+            ],
+            [
+              "だ",
+              "da"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 191.495,
+      "end": 194.885,
+      "jp": "でもそれで 満足できないのは 皆わかってるはずなんだ",
+      "romaji": "demosorede manzokudekinainowa minawakatteruhazunanda",
+      "phrases": [
+        {
+          "jp": "でもそれで",
+          "romaji": "demosorede",
+          "ruby": [
+            [
+              "で",
+              "de"
+            ],
+            [
+              "も",
+              "mo"
+            ],
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "で",
+              "de"
+            ]
+          ]
+        },
+        {
+          "jp": "満足できないのは",
+          "romaji": "manzokudekinainowa",
+          "ruby": [
+            [
+              "満",
+              "man"
+            ],
+            [
+              "足",
+              "zoku"
+            ],
+            [
+              "で",
+              "de"
+            ],
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "は",
+              "wa"
+            ]
+          ]
+        },
+        {
+          "jp": "皆わかってるはずなんだ",
+          "romaji": "minawakatteruhazunanda",
+          "ruby": [
+            [
+              "皆",
+              "mina"
+            ],
+            [
+              "わ",
+              "wa"
+            ],
+            [
+              "か",
+              "ka"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "る",
+              "ru"
+            ],
+            [
+              "は",
+              "ha"
+            ],
+            [
+              "ず",
+              "zu"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "だ",
+              "da"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 194.885,
+      "end": 196.336,
+      "jp": "だって そうでしょう？",
+      "romaji": "datte soudeshou",
+      "phrases": [
+        {
+          "jp": "だって",
+          "romaji": "datte",
+          "ruby": [
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "て",
+              "te"
+            ]
+          ]
+        },
+        {
+          "jp": "そうでしょう？",
+          "romaji": "soudeshou",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "で",
+              "de"
+            ],
+            [
+              "しょ",
+              "sho"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "？",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 196.336,
+      "end": 199.564,
+      "jp": "満足してたら こんなところで 歌なんて歌わない",
+      "romaji": "manzokushitetara konnatokorode utananteutawanai",
+      "phrases": [
+        {
+          "jp": "満足してたら",
+          "romaji": "manzokushitetara",
+          "ruby": [
+            [
+              "満",
+              "man"
+            ],
+            [
+              "足",
+              "zoku"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "ら",
+              "ra"
+            ]
+          ]
+        },
+        {
+          "jp": "こんなところで",
+          "romaji": "konnatokorode",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "ろ",
+              "ro"
+            ],
+            [
+              "で",
+              "de"
+            ]
+          ]
+        },
+        {
+          "jp": "歌なんて歌わない",
+          "romaji": "utananteutawanai",
+          "ruby": [
+            [
+              "歌",
+              "uta"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "歌",
+              "uta"
+            ],
+            [
+              "わ",
+              "wa"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 199.564,
+      "end": 200.945,
+      "jp": "こんなに 苦しくならない",
+      "romaji": "konnani kurushikunaranai",
+      "phrases": [
+        {
+          "jp": "こんなに",
+          "romaji": "konnani",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "に",
+              "ni"
+            ]
+          ]
+        },
+        {
+          "jp": "苦しくならない",
+          "romaji": "kurushikunaranai",
+          "ruby": [
+            [
+              "苦",
+              "kuru"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "く",
+              "ku"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "ら",
+              "ra"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 200.945,
+      "end": 202.873,
+      "jp": "こんなところで 踊らない",
+      "romaji": "konnatokorode odoranai",
+      "phrases": [
+        {
+          "jp": "こんなところで",
+          "romaji": "konnatokorode",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "ろ",
+              "ro"
+            ],
+            [
+              "で",
+              "de"
+            ]
+          ]
+        },
+        {
+          "jp": "踊らない",
+          "romaji": "odoranai",
+          "ruby": [
+            [
+              "踊",
+              "odo"
+            ],
+            [
+              "ら",
+              "ra"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 202.873,
+      "end": 204.742,
+      "jp": "こんな気持ちで 叫んでいない",
+      "romaji": "konnakimochide sakendeinai",
+      "phrases": [
+        {
+          "jp": "こんな気持ちで",
+          "romaji": "konnakimochide",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "気",
+              "ki"
+            ],
+            [
+              "持",
+              "mo"
+            ],
+            [
+              "ち",
+              "chi"
+            ],
+            [
+              "で",
+              "de"
+            ]
+          ]
+        },
+        {
+          "jp": "叫んでいない",
+          "romaji": "sakendeinai",
+          "ruby": [
+            [
+              "叫",
+              "sake"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "で",
+              "de"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 204.742,
+      "end": 206.53,
+      "jp": "こんなに 美しくはなれない",
+      "romaji": "konnani utsukushikuhanarenai",
+      "phrases": [
+        {
+          "jp": "こんなに",
+          "romaji": "konnani",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "に",
+              "ni"
+            ]
+          ]
+        },
+        {
+          "jp": "美しくはなれない",
+          "romaji": "utsukushikuhanarenai",
+          "ruby": [
+            [
+              "美",
+              "utsuku"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "く",
+              "ku"
+            ],
+            [
+              "は",
+              "ha"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 206.53,
+      "end": 208.713,
+      "jp": "こんなに 楽しくなってない",
+      "romaji": "konnani tanoshikunattenai",
+      "phrases": [
+        {
+          "jp": "こんなに",
+          "romaji": "konnani",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "ん",
+              "n"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "に",
+              "ni"
+            ]
+          ]
+        },
+        {
+          "jp": "楽しくなってない",
+          "romaji": "tanoshikunattenai",
+          "ruby": [
+            [
+              "楽",
+              "tano"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "く",
+              "ku"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 208.713,
+      "end": 211.464,
+      "jp": "踏み潰された涙が 固まってできた",
+      "romaji": "fumitsubusaretanamidaga katamattedekita",
+      "phrases": [
+        {
+          "jp": "踏み潰された涙が",
+          "romaji": "fumitsubusaretanamidaga",
+          "ruby": [
+            [
+              "踏",
+              "fu"
+            ],
+            [
+              "み",
+              "mi"
+            ],
+            [
+              "潰",
+              "tsubu"
+            ],
+            [
+              "さ",
+              "sa"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "涙",
+              "namida"
+            ],
+            [
+              "が",
+              "ga"
+            ]
+          ]
+        },
+        {
+          "jp": "固まってできた",
+          "romaji": "katamattedekita",
+          "ruby": [
+            [
+              "固",
+              "kata"
+            ],
+            [
+              "ま",
+              "ma"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "て",
+              "te"
+            ],
+            [
+              "で",
+              "de"
+            ],
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "た",
+              "ta"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 211.464,
+      "end": 214.599,
+      "jp": "この不可解な感情に 名前はない",
+      "romaji": "konofukakainakanjouni namaewanai",
+      "phrases": [
+        {
+          "jp": "この不可解な感情に",
+          "romaji": "konofukakainakanjouni",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "不",
+              "fu"
+            ],
+            [
+              "可",
+              "ka"
+            ],
+            [
+              "解",
+              "kai"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "感",
+              "kan"
+            ],
+            [
+              "情",
+              "jou"
+            ],
+            [
+              "に",
+              "ni"
+            ]
+          ]
+        },
+        {
+          "jp": "名前はない",
+          "romaji": "namaewanai",
+          "ruby": [
+            [
+              "名",
+              "na"
+            ],
+            [
+              "前",
+              "mae"
+            ],
+            [
+              "は",
+              "wa"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 214.599,
+      "end": 218.674,
+      "jp": "不可解の 未観測情景",
+      "romaji": "fukakaino mikansokujoukei",
+      "phrases": [
+        {
+          "jp": "不可解の",
+          "romaji": "fukakaino",
+          "ruby": [
+            [
+              "不",
+              "fu"
+            ],
+            [
+              "可",
+              "ka"
+            ],
+            [
+              "解",
+              "kai"
+            ],
+            [
+              "の",
+              "no"
+            ]
+          ]
+        },
+        {
+          "jp": "未観測情景",
+          "romaji": "mikansokujoukei",
+          "ruby": [
+            [
+              "未",
+              "mi"
+            ],
+            [
+              "観",
+              "kan"
+            ],
+            [
+              "測",
+              "soku"
+            ],
+            [
+              "情",
+              "jou"
+            ],
+            [
+              "景",
+              "kei"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 218.674,
+      "end": 221.379,
+      "jp": "名前のない 花のような",
+      "romaji": "namaenonai hananoyouna",
+      "phrases": [
+        {
+          "jp": "名前のない",
+          "romaji": "namaenonai",
+          "ruby": [
+            [
+              "名",
+              "na"
+            ],
+            [
+              "前",
+              "mae"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        },
+        {
+          "jp": "花のような",
+          "romaji": "hananoyouna",
+          "ruby": [
+            [
+              "花",
+              "hana"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "よ",
+              "yo"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "な",
+              "na"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 221.379,
+      "end": 224.63,
+      "jp": "悠に咲き乱れる この号哭が",
+      "romaji": "yuunisakimidareru konogoukokuga",
+      "phrases": [
+        {
+          "jp": "悠に咲き乱れる",
+          "romaji": "yuunisakimidareru",
+          "ruby": [
+            [
+              "悠",
+              "yuu"
+            ],
+            [
+              "に",
+              "ni"
+            ],
+            [
+              "咲",
+              "sa"
+            ],
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "乱",
+              "mida"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "る",
+              "ru"
+            ]
+          ]
+        },
+        {
+          "jp": "この号哭が",
+          "romaji": "konogoukokuga",
+          "ruby": [
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "号",
+              "gou"
+            ],
+            [
+              "哭",
+              "koku"
+            ],
+            [
+              "が",
+              "ga"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 224.63,
+      "end": 226.232,
+      "jp": "やりたいことすら できなくて",
+      "romaji": "yaritaikotosura dekinakute",
+      "phrases": [
+        {
+          "jp": "やりたいことすら",
+          "romaji": "yaritaikotosura",
+          "ruby": [
+            [
+              "や",
+              "ya"
+            ],
+            [
+              "り",
+              "ri"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "す",
+              "su"
+            ],
+            [
+              "ら",
+              "ra"
+            ]
+          ]
+        },
+        {
+          "jp": "できなくて",
+          "romaji": "dekinakute",
+          "ruby": [
+            [
+              "で",
+              "de"
+            ],
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "く",
+              "ku"
+            ],
+            [
+              "て",
+              "te"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 226.232,
+      "end": 229.332,
+      "jp": "身動きすら取れない さびれた心臓に咲いた",
+      "romaji": "miugokisuratorenai sabiretashinzounisaita",
+      "phrases": [
+        {
+          "jp": "身動きすら取れない",
+          "romaji": "miugokisuratorenai",
+          "ruby": [
+            [
+              "身",
+              "mi"
+            ],
+            [
+              "動",
+              "ugo"
+            ],
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "す",
+              "su"
+            ],
+            [
+              "ら",
+              "ra"
+            ],
+            [
+              "取",
+              "to"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        },
+        {
+          "jp": "さびれた心臓に咲いた",
+          "romaji": "sabiretashinzounisaita",
+          "ruby": [
+            [
+              "さ",
+              "sa"
+            ],
+            [
+              "び",
+              "bi"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "心",
+              "shin"
+            ],
+            [
+              "臓",
+              "zou"
+            ],
+            [
+              "に",
+              "ni"
+            ],
+            [
+              "咲",
+              "sa"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "た",
+              "ta"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 229.332,
+      "end": 232.989,
+      "jp": "不安定な 未完成情景",
+      "romaji": "fuanteina mikanseijoukei",
+      "phrases": [
+        {
+          "jp": "不安定な",
+          "romaji": "fuanteina",
+          "ruby": [
+            [
+              "不",
+              "fu"
+            ],
+            [
+              "安",
+              "an"
+            ],
+            [
+              "定",
+              "tei"
+            ],
+            [
+              "な",
+              "na"
+            ]
+          ]
+        },
+        {
+          "jp": "未完成情景",
+          "romaji": "mikanseijoukei",
+          "ruby": [
+            [
+              "未",
+              "mi"
+            ],
+            [
+              "完",
+              "kan"
+            ],
+            [
+              "成",
+              "sei"
+            ],
+            [
+              "情",
+              "jou"
+            ],
+            [
+              "景",
+              "kei"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 232.989,
+      "end": 235.717,
+      "jp": "言葉じゃ 表せない",
+      "romaji": "kotobaja arawasenai",
+      "phrases": [
+        {
+          "jp": "言葉じゃ",
+          "romaji": "kotobaja",
+          "ruby": [
+            [
+              "言",
+              "koto"
+            ],
+            [
+              "葉",
+              "ba"
+            ],
+            [
+              "じゃ",
+              "ja"
+            ]
+          ]
+        },
+        {
+          "jp": "表せない",
+          "romaji": "arawasenai",
+          "ruby": [
+            [
+              "表",
+              "arawa"
+            ],
+            [
+              "せ",
+              "se"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 235.717,
+      "end": 240.129,
+      "jp": "現実や社会に 抗うための",
+      "romaji": "genjitsuyashakaini aragautameno",
+      "phrases": [
+        {
+          "jp": "現実や社会に",
+          "romaji": "genjitsuyashakaini",
+          "ruby": [
+            [
+              "現",
+              "gen"
+            ],
+            [
+              "実",
+              "jitsu"
+            ],
+            [
+              "や",
+              "ya"
+            ],
+            [
+              "社",
+              "sha"
+            ],
+            [
+              "会",
+              "kai"
+            ],
+            [
+              "に",
+              "ni"
+            ]
+          ]
+        },
+        {
+          "jp": "抗うための",
+          "romaji": "aragautameno",
+          "ruby": [
+            [
+              "抗",
+              "araga"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "た",
+              "ta"
+            ],
+            [
+              "め",
+              "me"
+            ],
+            [
+              "の",
+              "no"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 240.129,
+      "end": 243.891,
+      "jp": "不可解で 不完全な魔法",
+      "romaji": "fukakaide fukanzennamahou",
+      "phrases": [
+        {
+          "jp": "不可解で",
+          "romaji": "fukakaide",
+          "ruby": [
+            [
+              "不",
+              "fu"
+            ],
+            [
+              "可",
+              "ka"
+            ],
+            [
+              "解",
+              "kai"
+            ],
+            [
+              "で",
+              "de"
+            ]
+          ]
+        },
+        {
+          "jp": "不完全な魔法",
+          "romaji": "fukanzennamahou",
+          "ruby": [
+            [
+              "不",
+              "fu"
+            ],
+            [
+              "完",
+              "kan"
+            ],
+            [
+              "全",
+              "zen"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "魔",
+              "ma"
+            ],
+            [
+              "法",
+              "hou"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 243.891,
+      "end": 246.224,
+      "jp": "お金とか ビジネスとか 効率とか",
+      "romaji": "okanetoka bijinesutoka kouritsutoka",
+      "phrases": [
+        {
+          "jp": "お金とか",
+          "romaji": "okanetoka",
+          "ruby": [
+            [
+              "お",
+              "o"
+            ],
+            [
+              "金",
+              "kane"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        },
+        {
+          "jp": "ビジネスとか",
+          "romaji": "bijinesutoka",
+          "ruby": [
+            [
+              "ビ",
+              "bi"
+            ],
+            [
+              "ジ",
+              "ji"
+            ],
+            [
+              "ネ",
+              "ne"
+            ],
+            [
+              "ス",
+              "su"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        },
+        {
+          "jp": "効率とか",
+          "romaji": "kouritsutoka",
+          "ruby": [
+            [
+              "効",
+              "kou"
+            ],
+            [
+              "率",
+              "ritsu"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 246.224,
+      "end": 247.606,
+      "jp": "そういうことじゃ ないでしょう？",
+      "romaji": "souiukotoja naideshou",
+      "phrases": [
+        {
+          "jp": "そういうことじゃ",
+          "romaji": "souiukotoja",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "じゃ",
+              "ja"
+            ]
+          ]
+        },
+        {
+          "jp": "ないでしょう？",
+          "romaji": "naideshou",
+          "ruby": [
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "で",
+              "de"
+            ],
+            [
+              "しょ",
+              "sho"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "？",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 247.606,
+      "end": 250.996,
+      "jp": "愛情とか 友情とか そういう何かじゃ 計り知れない",
+      "romaji": "aijoutoka yuujoutoka souiunanikaja hakarishirenai",
+      "phrases": [
+        {
+          "jp": "愛情とか",
+          "romaji": "aijoutoka",
+          "ruby": [
+            [
+              "愛",
+              "ai"
+            ],
+            [
+              "情",
+              "jou"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        },
+        {
+          "jp": "友情とか",
+          "romaji": "yuujoutoka",
+          "ruby": [
+            [
+              "友",
+              "yuu"
+            ],
+            [
+              "情",
+              "jou"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "か",
+              "ka"
+            ]
+          ]
+        },
+        {
+          "jp": "そういう何かじゃ",
+          "romaji": "souiunanikaja",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "い",
+              "i"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "何",
+              "nani"
+            ],
+            [
+              "か",
+              "ka"
+            ],
+            [
+              "じゃ",
+              "ja"
+            ]
+          ]
+        },
+        {
+          "jp": "計り知れない",
+          "romaji": "hakarishirenai",
+          "ruby": [
+            [
+              "計",
+              "haka"
+            ],
+            [
+              "り",
+              "ri"
+            ],
+            [
+              "知",
+              "shi"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "い",
+              "i"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 250.996,
+      "end": 254.851,
+      "jp": "心が打ちひしがれた あの不確かな情景が 綺麗だと思うのは",
+      "romaji": "kokorogauchihishigareta anofutashikanajoukeiga kireidatoomounowa",
+      "phrases": [
+        {
+          "jp": "心が打ちひしがれた",
+          "romaji": "kokorogauchihishigareta",
+          "ruby": [
+            [
+              "心",
+              "kokoro"
+            ],
+            [
+              "が",
+              "ga"
+            ],
+            [
+              "打",
+              "u"
+            ],
+            [
+              "ち",
+              "chi"
+            ],
+            [
+              "ひ",
+              "hi"
+            ],
+            [
+              "し",
+              "shi"
+            ],
+            [
+              "が",
+              "ga"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "た",
+              "ta"
+            ]
+          ]
+        },
+        {
+          "jp": "あの不確かな情景が",
+          "romaji": "anofutashikanajoukeiga",
+          "ruby": [
+            [
+              "あ",
+              "a"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "不",
+              "fu"
+            ],
+            [
+              "確",
+              "tashi"
+            ],
+            [
+              "か",
+              "ka"
+            ],
+            [
+              "な",
+              "na"
+            ],
+            [
+              "情",
+              "jou"
+            ],
+            [
+              "景",
+              "kei"
+            ],
+            [
+              "が",
+              "ga"
+            ]
+          ]
+        },
+        {
+          "jp": "綺麗だと思うのは",
+          "romaji": "kireidatoomounowa",
+          "ruby": [
+            [
+              "綺",
+              "ki"
+            ],
+            [
+              "麗",
+              "rei"
+            ],
+            [
+              "だ",
+              "da"
+            ],
+            [
+              "と",
+              "to"
+            ],
+            [
+              "思",
+              "omo"
+            ],
+            [
+              "う",
+              "u"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "は",
+              "wa"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 254.851,
+      "end": 258.8,
+      "jp": "きっと それこそが 人間の証だ",
+      "romaji": "kitto sorekosoga ningennoakashida",
+      "phrases": [
+        {
+          "jp": "きっと",
+          "romaji": "kitto",
+          "ruby": [
+            [
+              "き",
+              "ki"
+            ],
+            [
+              "っ",
+              "t"
+            ],
+            [
+              "と",
+              "to"
+            ]
+          ]
+        },
+        {
+          "jp": "それこそが",
+          "romaji": "sorekosoga",
+          "ruby": [
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "れ",
+              "re"
+            ],
+            [
+              "こ",
+              "ko"
+            ],
+            [
+              "そ",
+              "so"
+            ],
+            [
+              "が",
+              "ga"
+            ]
+          ]
+        },
+        {
+          "jp": "人間の証だ",
+          "romaji": "ningennoakashida",
+          "ruby": [
+            [
+              "人",
+              "nin"
+            ],
+            [
+              "間",
+              "gen"
+            ],
+            [
+              "の",
+              "no"
+            ],
+            [
+              "証",
+              "akashi"
+            ],
+            [
+              "だ",
+              "da"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "start": 0.0,
+      "end": 14.768,
+      "type": "instrumental"
+    },
+    {
+      "start": 43.098,
+      "end": 43.723,
+      "type": "instrumental"
+    },
+    {
+      "start": 56.478,
+      "end": 57.388,
+      "type": "instrumental"
+    },
+    {
+      "start": 86.438,
+      "end": 100.682,
+      "type": "instrumental"
+    },
+    {
+      "start": 142.228,
+      "end": 142.745,
+      "type": "instrumental"
+    },
+    {
+      "start": 172.228,
+      "end": 187.014,
+      "type": "instrumental"
+    },
+    {
+      "start": 258.8,
+      "end": 280.201,
+      "type": "instrumental"
+    }
+  ]
+}

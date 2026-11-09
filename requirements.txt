@@ -1,0 +1,3 @@
+pygame-ce>=2.5.8
+pykakasi>=2.2.1
+imageio-ffmpeg>=0.5.1

@@ -1,0 +1,16 @@
+{
+  "title": "不可解",
+  "display_title": "不可解",
+  "artist": "花譜",
+  "enabled": true,
+  "window": "open.py",
+  "audio": "audio/source.flac",
+  "playback_audio": "audio/playback.wav",
+  "lyrics": "lyrics/不可解.srt",
+  "annotation": "lyrics/不可解.annotated.json",
+  "readings": "lyrics/readings.json",
+  "ruby": "lyrics/ruby.json",
+  "translations": "lyrics/中文.json",
+  "character_timing": "../../不可解_歌词精校/output/逐字时间.json",
+  "notes": "仓库不提供音频；请使用与时间轴匹配的合法音源"
+}
