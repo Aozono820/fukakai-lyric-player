@@ -22,7 +22,7 @@
 需要 Python 3.10 或更新版本。
 
 ```powershell
-git clone <你的仓库地址>
+git clone https://github.com/Aozono820/fukakai-lyric-player.git
 cd fukakai-lyric-player
 py -m pip install -r requirements.txt
 ```
